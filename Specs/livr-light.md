@@ -14,6 +14,7 @@
 | `green`  | `#7CB342` | Accent / medium   |
 | `lime`   | `#9BD75A` | Highlight         |
 | `mint`   | `#E8F5E9` | Surface / light   |
+| `livr`   | `#20543D` | Company Color     |
 
 - Mode: Light-only
 - Accent strategy: Single accent (`green`), supported by `lime` highlight
