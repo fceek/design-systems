@@ -27,7 +27,7 @@
 - Families (use in harmony — mix freely to suit context):
   - Hanken Grotesk, Space Grotesk — titles, headings, short text
   - IBM Plex Sans, DM Sans — body text, longer passages
-  - Google Code Sans — code
+  - Google Sans Code — code
 - Weight behaviour: Emphasis from weight + spacing, not decoration
 
 ## 4. Components & Surfaces
